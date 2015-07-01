@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavenLoginPage:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Login.Page.war">
+      <element id="artifact" artifact-name="MavenLoginPage:war exploded" />
+    </root>
+  </artifact>
+</component>
